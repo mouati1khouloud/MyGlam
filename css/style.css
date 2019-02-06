@@ -1,0 +1,92 @@
+
+div.container-fluid
+{
+	    padding:0;
+
+}
+.navbarr{
+	background-image: url('../img/slider_image_home@2x.png');
+	min-height: 90vh;
+	
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+color: #fff;
+}
+ul.nav {
+	padding-top: 0px;
+	color: #fff;
+}
+.text{
+	padding-top: 290px;
+	font-size: 15px;
+}
+.pos{
+	padding: 20px;
+	border: 0 solid #fff;
+	color: #fff;
+}
+.EXPLORE{
+padding-top: 70px;
+	color: red;	
+
+}
+.EXP{
+	padding-top: 40px;
+	color: red;
+	
+    margin-left: 180px;
+
+
+}
+.bor{
+	border-bottom:2px solid red ;
+	margin-right: 37pc;
+	margin-left: 37pc;
+    margin-bottom: 100px;
+}
+
+
+	
+.btt{
+	
+    margin-top: 50px;
+    margin-bottom: 50px;
+        margin-left: auto;
+    margin-right: auto;
+
+    width: 226px;
+
+
+}
+.bk{
+
+	background-color: #f5f5f5;
+}
+.booking{
+    margin-bottom: 30px;
+
+}
+.bookin{
+    margin-bottom: 20px;
+
+}
+p{
+	color:#6c757d;
+}
+p.police{
+	color:#6c757d;
+display: flex;
+align-items: center;
+}
+.foot{
+	background-image: url("../img/news_letter_background_image_home@1x.png");
+}
+#fc{
+padding-top:30px;
+	color: #fff;
+}
+#fcc{
+	margin-bottom: 50px;
+	color: #fff;
+}
